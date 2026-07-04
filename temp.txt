@@ -1,0 +1,11 @@
+// instructions to run program
+
+// for server seperate terminal:--
+
+PS D:\jdk-1.8\bin\mp> D:\jdk-1.8\bin\javac.exe server.java
+PS D:\jdk-1.8\bin\mp> D:\jdk-1.8\bin\java.exe server    
+
+// for client seperate terminal:--
+
+PS D:\jdk-1.8\bin\mp> D:\jdk-1.8\bin\javac.exe client.java
+PS D:\jdk-1.8\bin\mp> D:\jdk-1.8\bin\java.exe client   
